@@ -1,0 +1,28 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=ControlPaty
+# Date=22:05:42
+# CreatedBy=Fritzing 1.0.1rc.2023-09-04.CD-1653-0-8d480a18
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+L_V,";;;;0.030A;;;;","5 mm [THT]",1644.44,583.032,-2.54444e-14,Top,THT
+OLED,";;;;;;;;","",1745.03,1404.48,0,Top,MANUAL
+R_BG,"10k;;;;;0.25W;;;","THT",1394.44,357.393,0,Top,THT
+R_E,"330;;;;;0.25W;;;","THT",2094.44,757.393,-3.81667e-14,Top,THT
+ESP8266,";;;;;;;;","",539.501,1011.5,0,Top,MANUAL
+B_G,";;;;;;;;","[THT]",1372.4,145.983,-3.81667e-14,Top,THT
+L_G,";;;;0.030A;;;;","5 mm [THT]",1244.44,583.032,-2.54444e-14,Top,THT
+R_V,"330;;;;;0.25W;;;","THT",1694.44,757.393,0,Top,THT
+R_BV,"10k;;;;;0.25W;;;","THT",1894.44,357.393,0,Top,THT
+L_E,";;;;0.030A;;;;","5 mm [THT]",2044.44,583.032,0,Top,THT
+B_V,";;;;;;;;","[THT]",1872.4,145.983,-3.81667e-14,Top,THT
+R_G,"330;;;;;0.25W;;;","THT",1294.44,757.393,-3.81667e-14,Top,THT
